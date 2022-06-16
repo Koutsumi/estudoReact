@@ -1,5 +1,7 @@
 export function PublicHome(){
-    return <>
-        home
-    </>
+    return (
+        <div className='bg-red-400'>
+            teste
+        </div>
+    )
 }
